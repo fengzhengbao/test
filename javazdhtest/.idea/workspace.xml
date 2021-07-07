@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61365f56-00a6-4844-a070-93cc3c6700e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$USER_HOME$/Desktop" userTempatePath="" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1WQM9nGefnIRFBQ1zvjhuzqeWBc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="JUnit.RunCukesTest">
+    <configuration name="All Features in: example-test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.cli.Main" />
+      <module name="example-test" />
+      <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="All Features in: example-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCukesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="example-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dx.exampleTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dx.exampleTest" />
+      <option name="MAIN_CLASS_NAME" value="com.dx.exampleTest.RunCukesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunCukesTest" />
+        <item itemvalue="Cucumber java.All Features in: example-test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61365f56-00a6-4844-a070-93cc3c6700e6" name="Default Changelist" comment="" />
+      <created>1579077215779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579077215779</updated>
+      <workItem from="1579077225322" duration="123000" />
+      <workItem from="1579077396540" duration="249000" />
+      <workItem from="1579077785435" duration="1128000" />
+      <workItem from="1579080313812" duration="585000" />
+      <workItem from="1579080936394" duration="170000" />
+      <workItem from="1579081210015" duration="671000" />
+      <workItem from="1579082032588" duration="451000" />
+      <workItem from="1579137183997" duration="4424000" />
+      <workItem from="1579161183937" duration="8513000" />
+      <workItem from="1579247407775" duration="120000" />
+      <workItem from="1579248744421" duration="883000" />
+      <workItem from="1579261997472" duration="1272000" />
+      <workItem from="1580205161736" duration="705000" />
+      <workItem from="1580205899449" duration="132000" />
+      <workItem from="1581327901438" duration="1327000" />
+      <workItem from="1581329321658" duration="8000" />
+      <workItem from="1581384870877" duration="1032000" />
+      <workItem from="1581940080681" duration="4223000" />
+      <workItem from="1622894120161" duration="389000" />
+      <workItem from="1623304599407" duration="2042000" />
+      <workItem from="1623595910855" duration="16000" />
+      <workItem from="1623836565825" duration="2246000" />
+      <workItem from="1623924972962" duration="612000" />
+      <workItem from="1623980763405" duration="22000" />
+      <workItem from="1623987944724" duration="335000" />
+      <workItem from="1624010396918" duration="147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623305155774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1623305155774" />
+    <state x="413" y="145" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1624010531136">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="145" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1624010531136" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1623988282838">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1623988282838" />
+    <state width="1323" height="298" key="GridCell.Tab.0.bottom" timestamp="1623305842319">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="298" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623305842319" />
+    <state width="1323" height="298" key="GridCell.Tab.0.center" timestamp="1623305842319">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="298" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623305842319" />
+    <state width="1323" height="298" key="GridCell.Tab.0.left" timestamp="1623305842319">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="298" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623305842319" />
+    <state width="1323" height="298" key="GridCell.Tab.0.right" timestamp="1623305842319">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="298" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623305842319" />
+    <state x="226" y="21" key="Maven.ArtifactSearchDialog" timestamp="1624010497738">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="226" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1624010497738" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1623304664933">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1623304664933" />
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1623980763615">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1623980763615" />
+  </component>
+</project>
