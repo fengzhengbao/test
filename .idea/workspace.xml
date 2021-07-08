@@ -40,7 +40,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -133,6 +133,8 @@
       <workItem from="1623980763405" duration="22000" />
       <workItem from="1623987944724" duration="335000" />
       <workItem from="1624010396918" duration="147000" />
+      <workItem from="1625723812161" duration="1245000" />
+      <workItem from="1625725111019" duration="27000" />
     </task>
     <servers />
   </component>
@@ -145,9 +147,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623305155774">
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625725014591">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="137" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.-139.1920.1040@0.0.1366.728" timestamp="1625725014591" />
     <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1623305155774" />
     <state x="413" y="145" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1624010531136">
       <screen x="0" y="0" width="1366" height="728" />
@@ -157,33 +160,55 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1623988282838" />
-    <state width="1323" height="298" key="GridCell.Tab.0.bottom" timestamp="1623305842319">
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1625725039445">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-139.1920.1040@0.0.1366.728" timestamp="1625725039445" />
     <state width="1323" height="298" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623305842319" />
-    <state width="1323" height="298" key="GridCell.Tab.0.center" timestamp="1623305842319">
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1625725039444">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728/1366.-139.1920.1040@0.0.1366.728" timestamp="1625725039444" />
     <state width="1323" height="298" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623305842319" />
-    <state width="1323" height="298" key="GridCell.Tab.0.left" timestamp="1623305842319">
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1625725039444">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728/1366.-139.1920.1040@0.0.1366.728" timestamp="1625725039444" />
     <state width="1323" height="298" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623305842319" />
-    <state width="1323" height="298" key="GridCell.Tab.0.right" timestamp="1623305842319">
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1625725039444">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728/1366.-139.1920.1040@0.0.1366.728" timestamp="1625725039444" />
     <state width="1323" height="298" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623305842319" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1625725039445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-139.1920.1040@0.0.1366.728" timestamp="1625725039445" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1625725039445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.-139.1920.1040@0.0.1366.728" timestamp="1625725039445" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1625725039445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.-139.1920.1040@0.0.1366.728" timestamp="1625725039445" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1625725039445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.-139.1920.1040@0.0.1366.728" timestamp="1625725039445" />
     <state x="226" y="21" key="Maven.ArtifactSearchDialog" timestamp="1624010497738">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="226" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1624010497738" />
-    <state x="186" y="9" key="SettingsEditor" timestamp="1623304664933">
+    <state x="186" y="0" key="SettingsEditor" timestamp="1625725057560">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728/1366.-139.1920.1040@0.0.1366.728" timestamp="1625725057560" />
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1623304664933" />
-    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1623980763615">
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1625725110754">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-139.1920.1040@0.0.1366.728" timestamp="1625725110754" />
     <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1623980763615" />
   </component>
 </project>
