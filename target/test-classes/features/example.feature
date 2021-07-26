@@ -194,7 +194,7 @@ Feature: 搜索
       | python     |
 
   @用例27
-  Scenario: 100用例27
+  Scenario: 用例10027
     Given 打开百度页面
     When 在输入框中输入关键字"junit"，然后点击【百度一下】按钮
     Then 页面返回的结果正确
